@@ -8,8 +8,8 @@ function SidebarOption({ Icon, title }) {
       {Icon ? (
         <h3>{title}</h3>
       ) : (
-        <h3>
-          <span> # </span> {title}{" "}
+        <h3 className="sidebarOption_channel">
+          <span className="sidebarOption_hash"> # </span> {title}{" "}
         </h3>
       )}
     </div>
