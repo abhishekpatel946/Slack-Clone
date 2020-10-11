@@ -3,9 +3,9 @@ import "./Chat.css";
 import { useParams } from "react-router-dom";
 import StarBorderOutlinedIcon from "@material-ui/icons/StarBorderOutlined";
 import InfoOutlinedIcon from "@material-ui/icons/InfoOutlined";
-import db from "./firebase";
-import Messages from "./Messages";
-import ChatInput from "./ChatInput";
+import db from "../Firebase/firebase";
+import Messages from "../Message/Messages";
+import ChatInput from "../Chat/ChatInput";
 
 function Chat() {
   const { roomId } = useParams();

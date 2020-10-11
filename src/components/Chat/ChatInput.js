@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import "./ChatInput.css";
-import db from "./firebase";
+import db from "../Firebase/firebase";
 import firebase from "firebase";
-import { useStateValue } from "./StateProvider";
+import { useStateValue } from "../Utility/StateProvider";
 
 function ChatInput({ channelName, channelId }) {
   const [input, setInput] = useState("");
