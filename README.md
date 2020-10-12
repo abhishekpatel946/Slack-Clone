@@ -10,7 +10,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/abhishekpatel946/Slack-Clone">
-    <img src="" alt="Logo" width="80" height="80">
+    <img src="https://github.com/abhishekpatel946/Slack-Clone/blob/main/src/assets/logo-readme.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Slack Clone</h3>
@@ -52,7 +52,7 @@
 ## About The Project
 <p align="center">
   <a href="https://github.com/abhishekpatel946/Slack-Clone">
-    <img src="" alt="Logo" width="100" height="100">
+    <img src="https://github.com/abhishekpatel946/Slack-Clone/blob/main/src/assets/slack_logo-ebd02d1.svg" alt="Logo" width="300" height="300">
   </a>
 </p>
 
@@ -90,19 +90,19 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* clone
+* Clone
 ```sh
-git clone https://github.com/abhishekpatel946/Budget-Manager-app.git
+git clone https://github.com/abhishekpatel946/Slack-Clone.git
 ```
 
-* link
-[Slack Clone](https://slack-clone-152da.web.app/)
+* Link
+#### [Slack Clone](https://slack-clone-152da.web.app/)
 
-### Installation
+## Installation
 
 1. Clone the repo
 ```sh
-git clone https://github.com/abhishekpatel946/Slack-Clone
+git clone https://github.com/abhishekpatel946/Slack-Clone.git
 ```
 
 2. Go to the Slack-Clone
@@ -118,10 +118,10 @@ npm start
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-![1!]()
-![2!]()
-![3!]()
-![4!]()
+![1!](https://github.com/abhishekpatel946/Slack-Clone/blob/main/src/assets/1.jpg)
+![2!](https://github.com/abhishekpatel946/Slack-Clone/blob/main/src/assets/2jpg.jpg)
+![3!](https://github.com/abhishekpatel946/Slack-Clone/blob/main/src/assets/3jpg.jpg)
+![4!](https://github.com/abhishekpatel946/Slack-Clone/blob/main/src/assets/4jpg.jpg)
 
 _For more examples, please refer to the [Documentation](#built-with)_
 
@@ -182,5 +182,5 @@ Project Link: [https://github.com/abhishekpatel946/Slack-Clone](https://github.c
 [stars-url]: https://github.com/abhishekpatel946/Slack-Clone/stargazers
 [issues-shield]: https://img.shields.io/github/issues/abhishekpatel946/Slack-Clone.svg?style=flat
 [issues-url]: https://github.com/abhishekpatel946/Slack-Clone/issues
-[product-screenshot]: 
+[product-screenshot]: https://github.com/abhishekpatel946/Slack-Clone/blob/main/src/assets/slack_logo-ebd02d1.svg
 
